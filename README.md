@@ -1,38 +1,150 @@
-# # Hi there! I'm Ridwan Abdulkadir  
+# Hi, I'm Ridwan Abdulkadir 👋
 
-🎯 **DevOps Engineer** passionate about automation, cloud-native technologies, and CI/CD pipelines.  
+## Backend Software Engineer | AI Engineer | Cloud & DevOps Engineer
 
-## Skills  
-- **DevOps Tools**: Git, Jenkins, Docker, Kubernetes, Terraform, Ansible  
-- **Cloud Platforms**: AWS (EC2, S3, IAM, CloudWatch, EKS)  
-- **Languages**: Python, Bash, Groovy, YAML, HCL, DSL 
-- **Monitoring & Logging**: Prometheus, Grafana and CloudWatch  
+I design and build scalable backend systems, AI-powered applications, and cloud-native infrastructure that are reliable, secure, and production-ready.
 
-## Featured Projects  
-1. **[E-commerce CI/CD Pipeline](https://github.com/RidwanAbdulkadir/CICD)**  
-   Automates the build, test, and deployment of an e-commerce app on Kubernetes.  
-   Tools: Jenkins, SonarQube, Docker, Kubernetes, AWS.  
+My work spans backend engineering, artificial intelligence, distributed systems, cloud computing, and DevOps. I enjoy solving complex engineering problems by combining clean software architecture with automation, infrastructure, and intelligent systems.
 
-2. **[Infrastructure Automation with Terraform](https://github.com/RidwanAbdulkadir/terraform-files)**  
-   Provision AWS infrastructure using Terraform with reusable modules.  
+Whether I'm designing REST APIs, deploying Kubernetes workloads, building AI applications, or automating cloud infrastructure, my focus remains the same:
 
-3. **[Ansible Playbooks](https://github.com/RidwanAbdulkadir/ansible)**  
-   Ansible automation scripts for server configuration and application deployment.  
+> Build software that is scalable, maintainable, observable, and ready for production.
 
-4. **[E-commerce Web App](https://github.com/RidwanAbdulkadir/ecom-web-app.)**  
-   A full-stack e-commerce web application.  
-   Tools: Docker, Sonarqube, Kubernetes, AWS.  
+---
 
-5. **[Kubernetes Configurations](https://github.com/RidwanAbdulkadir/k8s-files)**  
-   Contains Kubernetes deployment files and Helm charts for managing cloud-native applications.  
+## Areas of Expertise
 
-6. **[Automation Scripts](https://github.com/RidwanAbdulkadir/scripts)**  
-   Collection of Bash and Python scripts for automating DevOps workflows.  
+- Backend Engineering
+- Artificial Intelligence
+- API Design & Development
+- Cloud Architecture
+- Infrastructure Automation
+- DevOps & Platform Engineering
+- Microservices
+- Distributed Systems
+- Containerization
+- CI/CD Automation
 
-7. **[Online Library Web App](https://github.com/RidwanAbdulkadir/online-library-webapp)**  
-   A web application for managing an online library.  
-   Tools: Python, Flask, Docker.  
+---
 
- 
+## Tech Stack
 
+### Backend
 
+- Python
+- Flask
+- FastAPI
+- SQLAlchemy
+- REST APIs
+- WebSockets
+- JWT Authentication
+
+### Artificial Intelligence
+
+- LangChain
+- OpenAI APIs
+- Hugging Face
+- Transformers
+- RAG Systems
+- AI Agents
+- LLM Applications
+- Vector Databases
+
+### Cloud & DevOps
+
+- AWS
+- Docker
+- Kubernetes
+- ArgoCD
+- Jenkins
+- GitHub Actions
+- Terraform
+- Ansible
+
+### Databases
+
+- PostgreSQL
+- MySQL
+- Redis
+- MongoDB
+
+### Monitoring & Observability
+
+- Prometheus
+- Grafana
+- CloudWatch
+
+### Languages
+
+- Python
+- Bash
+- YAML
+- HCL
+
+---
+
+## Featured Projects
+
+### AI Customer Support Platform
+
+An intelligent customer support platform powered by LLMs, semantic search, and retrieval-augmented generation.
+
+**Stack:** Python • FastAPI • LangChain • PostgreSQL • Docker
+
+---
+
+### Cloud-Native E-Commerce Platform
+
+Production-ready e-commerce backend deployed on Kubernetes with automated CI/CD pipelines.
+
+**Stack:** Python • Docker • Kubernetes • Jenkins • AWS • ArgoCD
+
+---
+
+### Infrastructure Automation
+
+Infrastructure-as-Code project provisioning scalable AWS environments using Terraform and Ansible.
+
+**Stack:** Terraform • AWS • Ansible
+
+---
+
+### Backend REST APIs
+
+Collection of scalable backend services implementing authentication, authorization, caching, and asynchronous task processing.
+
+**Stack:** Python • FastAPI • PostgreSQL • Redis
+
+---
+
+### Kubernetes Platform
+
+Production Kubernetes manifests, Helm configurations, ingress controllers, autoscaling, monitoring, and GitOps deployment strategies.
+
+---
+
+## Engineering Principles
+
+- Clean Architecture
+- SOLID Principles
+- API-First Development
+- Infrastructure as Code
+- Security by Design
+- Observability
+- Automation First
+- Scalability
+- Performance Optimization
+
+---
+
+## Current Focus
+
+Building production-grade AI systems, intelligent backend services, cloud-native applications, and scalable platform infrastructure.
+
+---
+
+## Connect
+
+📧 **Email:** olayinkaridwan20@gmail.com
+
+🐙 **GitHub:** https://github.com/Ridwan3030
